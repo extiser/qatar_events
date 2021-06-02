@@ -1,0 +1,26 @@
+export const MAIN_ROUTE = 'main';
+export const PROFILE_ROUTE = 'profile';
+export const LOGIN_ROUTE = 'login';
+export const ENTRY_ROUTE = 'entry';
+export const AUTH_ROUTE = 'auth';
+export const EVENT_ROUTE = 'auth';
+export const LANGUAGE_ROUTE = 'language';
+export const REGISTRATION_ROUTE = 'registration';
+export const REGISTRATION_RESULT_ROUTE = 'registrationResult';
+export const FORGOT_PASSWORD_ROUTE = 'forgotPassword';
+export const FORGOT_PASSWORD_RESULT_ROUTE = 'forgotPasswordResult';
+export const EVENT_CONTACTS_ROUTE = 'eventContacts';
+export const WEB_VIEW_ROUTE = 'webView';
+export const ACCOUNT_SETTINGS_ROUTE = 'accountSettings';
+export const APP_SETTINGS_ROUTE = 'appSettings';
+export const ADD_CHANNELS_ROUTE = 'addChannels';
+export const ABOUT_APP_ROUTE = 'aboutApp';
+export const FAVORITES_ROUTE = 'favorites';
+export const MY_EVENTS_ROUTE = 'myEvents';
+export const TECHNICAL_SUPPORT_ROUTE = 'technicalSupport';
+export const GET_IN_TOUCH_ROUTE = 'getInTouch';
+export const SUBMIT_EVENT_ROUTE = 'submitEvent';
+export const CHANNEL_ROUTE = 'channel';
+export const MY_CHANNELS_ROUTE = 'myChannels';
+export const BROWSER = 'browser';
+

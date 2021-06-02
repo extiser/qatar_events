@@ -1,0 +1,61 @@
+{
+  "name": "qatar_events",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts"
+    ]
+  },
+  "dependencies": {
+    "@ptomasroos/react-native-multi-slider": "0.0.12",
+    "axios": "^0.17.1",
+    "i18next": "^10.4.1",
+    "lodash": "^4.17.5",
+    "moment": "^2.20.1",
+    "native-base": "^2.3.5",
+    "react": "16.0.0",
+    "react-i18next": "^7.3.0",
+    "react-native": "0.51.0",
+    "react-native-add-calendar-event": "^0.3.0",
+    "react-native-android-open-settings": "^1.0.1",
+    "react-native-auto-height-image": "^1.0.0",
+    "react-native-communications": "^2.2.1",
+    "react-native-cookies": "^3.2.0",
+    "react-native-datepicker": "^1.6.0",
+    "react-native-fast-image": "^2.2.4",
+    "react-native-fs": "^2.9.7",
+    "react-native-htmlview": "^0.12.1",
+    "react-native-image-picker": "^0.26.7",
+    "react-native-image-resizer": "^1.0.0",
+    "react-native-modal": "^5.2.0",
+    "react-native-onesignal": "^3.1.4",
+    "react-native-permissions": "^1.1.1",
+    "react-native-photo-view": "^1.5.2",
+    "react-native-remote-svg": "^1.0.1",
+    "react-native-responsive": "^1.0.2",
+    "react-native-restart": "0.0.6",
+    "react-native-simple-auth": "^2.3.0",
+    "react-native-splash-screen": "^3.0.6",
+    "react-native-storage": "^0.2.2",
+    "react-navigation": "^1.0.0-beta.27",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-jest": "21.2.0",
+    "babel-plugin-module-resolver": "^3.0.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "21.2.1",
+    "react-test-renderer": "16.0.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

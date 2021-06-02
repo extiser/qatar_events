@@ -1,0 +1,1 @@
+export const TERMS_OF_USE_URL = 'https://www.iloveqatar.net/terms-of-use';
